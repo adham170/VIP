@@ -137,7 +137,7 @@ try {
                           [['text'=>'~ بدء الصيد ⏸','callback_data'=>'run'],['text'=>'~ ايقاف الصيد ▶️','callback_data'=>'stop']],
                           [['text'=>'حالة الحسابات ♻️','callback_data'=>'status']],['text'=>'قسم خاص ✔','callback_data'=>'statusakil']],
                       ]
-                  ])
+                  ]])
                   ]);
           		    $config['mode'] = null;
 		              $config['mid'] = null;
